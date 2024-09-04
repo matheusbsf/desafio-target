@@ -55,8 +55,8 @@ public class Terceiro {
             }
         }
 
-        System.out.printf("Menor valor de faturamento: %.2f\n", menorValor);
-        System.out.printf("Maior valor de faturamento: %.2f\n", maiorValor);
+        System.out.printf("Menor valor de faturamento: R$%.2f\n", menorValor);
+        System.out.printf("Maior valor de faturamento: R$%.2f\n", maiorValor);
         System.out.println("Número de dias com faturamento acima da média: " + diasAcimaDaMedia);
     }
 }
