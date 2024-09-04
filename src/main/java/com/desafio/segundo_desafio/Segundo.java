@@ -28,9 +28,9 @@ public class Segundo {
          * mensagem correspondente.
          */
         if (n3 == valor) {
-            System.out.println("O valor " + valor + " *está* presente na sequência.");
+            System.out.println("O número " + valor + " *está* presente na sequência.");
         } else {
-            System.out.println("O valor " + valor + " *não* está presente na sequência.");
+            System.out.println("O número " + valor + " *não* está presente na sequência.");
         }
     }
 }
