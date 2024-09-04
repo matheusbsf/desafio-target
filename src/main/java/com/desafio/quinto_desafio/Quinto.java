@@ -10,6 +10,7 @@ public class Quinto {
         String texto = scanner.nextLine();
         scanner.close();
 
+        // Divide a string inserida em letras individuais e as armazena em uma lista
         String[] textoPartido = texto.split("");
 
         String letraTemp;
